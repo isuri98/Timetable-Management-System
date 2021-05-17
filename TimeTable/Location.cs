@@ -26,6 +26,8 @@ namespace TimeTable
             Location addloc = new Location();
             addloc.Show();
         }
+        //DB CONNECTION
+
         private void Location_Load(object sender, EventArgs e)
         {
             String query1 = "Select * from Location";
@@ -76,6 +78,8 @@ namespace TimeTable
 
         }
 
+        //SAVE LOCATION
+
         private void btnlocsave_Click(object sender, EventArgs e)
         {
             try
@@ -117,6 +121,9 @@ namespace TimeTable
             }
             
         }
+
+        //CLEAR BUTTON
+
         private void btnlocclear_Click(object sender, EventArgs e)
         {
             
@@ -148,6 +155,8 @@ namespace TimeTable
             }
 
         }
+
+        //UPDATE LOCATION
         private void BtnLocUpdate_Click(object sender, EventArgs e)
         {
             try
@@ -241,6 +250,7 @@ namespace TimeTable
 
         }
 
+        //DELETE LOCATION
         private void btnLocDelete_Click(object sender, EventArgs e)
         {
             DialogResult dlgResult = MessageBox.Show("Are You Sure You Want To Delete?", "Delete!", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
@@ -302,6 +312,11 @@ namespace TimeTable
             this.Hide();
             WorkingDays workday = new WorkingDays();
             workday.Show();
+        }
+
+        private void manageloctab_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

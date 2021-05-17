@@ -92,9 +92,10 @@ namespace TimeTable
             this.panelSliderMenu.Controls.Add(this.dashboard);
             this.panelSliderMenu.Controls.Add(this.panellogo);
             this.panelSliderMenu.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panelSliderMenu.Location = new System.Drawing.Point(15, 36);
+            this.panelSliderMenu.Location = new System.Drawing.Point(20, 44);
+            this.panelSliderMenu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panelSliderMenu.Name = "panelSliderMenu";
-            this.panelSliderMenu.Size = new System.Drawing.Size(182, 557);
+            this.panelSliderMenu.Size = new System.Drawing.Size(241, 686);
             this.panelSliderMenu.TabIndex = 28;
             // 
             // students
@@ -108,9 +109,10 @@ namespace TimeTable
             this.students.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.students.Image = global::TimeTable.Properties.Resources.student;
             this.students.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.students.Location = new System.Drawing.Point(0, 377);
+            this.students.Location = new System.Drawing.Point(0, 460);
+            this.students.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.students.Name = "students";
-            this.students.Size = new System.Drawing.Size(178, 45);
+            this.students.Size = new System.Drawing.Size(237, 55);
             this.students.TabIndex = 18;
             this.students.Text = "Students";
             this.students.UseVisualStyleBackColor = true;
@@ -127,9 +129,10 @@ namespace TimeTable
             this.rooms.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.rooms.Image = global::TimeTable.Properties.Resources.room;
             this.rooms.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.rooms.Location = new System.Drawing.Point(0, 332);
+            this.rooms.Location = new System.Drawing.Point(0, 405);
+            this.rooms.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.rooms.Name = "rooms";
-            this.rooms.Size = new System.Drawing.Size(178, 45);
+            this.rooms.Size = new System.Drawing.Size(237, 55);
             this.rooms.TabIndex = 17;
             this.rooms.Text = "Rooms";
             this.rooms.UseVisualStyleBackColor = true;
@@ -144,9 +147,10 @@ namespace TimeTable
             this.working_days.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.working_days.Image = global::TimeTable.Properties.Resources.time3;
             this.working_days.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.working_days.Location = new System.Drawing.Point(0, 287);
+            this.working_days.Location = new System.Drawing.Point(0, 350);
+            this.working_days.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.working_days.Name = "working_days";
-            this.working_days.Size = new System.Drawing.Size(178, 45);
+            this.working_days.Size = new System.Drawing.Size(237, 55);
             this.working_days.TabIndex = 16;
             this.working_days.Text = "Working Days and Hours";
             this.working_days.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -163,9 +167,10 @@ namespace TimeTable
             this.locations.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.locations.Image = global::TimeTable.Properties.Resources.location;
             this.locations.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.locations.Location = new System.Drawing.Point(0, 242);
+            this.locations.Location = new System.Drawing.Point(0, 295);
+            this.locations.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.locations.Name = "locations";
-            this.locations.Size = new System.Drawing.Size(178, 45);
+            this.locations.Size = new System.Drawing.Size(237, 55);
             this.locations.TabIndex = 15;
             this.locations.Text = "Locations";
             this.locations.UseVisualStyleBackColor = true;
@@ -181,9 +186,10 @@ namespace TimeTable
             this.tags.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.tags.Image = global::TimeTable.Properties.Resources.Tags;
             this.tags.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.tags.Location = new System.Drawing.Point(0, 197);
+            this.tags.Location = new System.Drawing.Point(0, 240);
+            this.tags.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tags.Name = "tags";
-            this.tags.Size = new System.Drawing.Size(178, 45);
+            this.tags.Size = new System.Drawing.Size(237, 55);
             this.tags.TabIndex = 14;
             this.tags.Text = "Tags";
             this.tags.UseVisualStyleBackColor = true;
@@ -199,9 +205,10 @@ namespace TimeTable
             this.subjects.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.subjects.Image = global::TimeTable.Properties.Resources.book3;
             this.subjects.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.subjects.Location = new System.Drawing.Point(0, 152);
+            this.subjects.Location = new System.Drawing.Point(0, 185);
+            this.subjects.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.subjects.Name = "subjects";
-            this.subjects.Size = new System.Drawing.Size(178, 45);
+            this.subjects.Size = new System.Drawing.Size(237, 55);
             this.subjects.TabIndex = 13;
             this.subjects.Text = "Subjects";
             this.subjects.UseVisualStyleBackColor = true;
@@ -217,9 +224,10 @@ namespace TimeTable
             this.button1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.button1.Image = global::TimeTable.Properties.Resources.lecture2;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(0, 107);
+            this.button1.Location = new System.Drawing.Point(0, 130);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(178, 45);
+            this.button1.Size = new System.Drawing.Size(237, 55);
             this.button1.TabIndex = 12;
             this.button1.Text = "Lecturers";
             this.button1.UseVisualStyleBackColor = true;
@@ -235,9 +243,10 @@ namespace TimeTable
             this.dashboard.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.dashboard.Image = global::TimeTable.Properties.Resources.dashboard1;
             this.dashboard.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.dashboard.Location = new System.Drawing.Point(0, 62);
+            this.dashboard.Location = new System.Drawing.Point(0, 75);
+            this.dashboard.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dashboard.Name = "dashboard";
-            this.dashboard.Size = new System.Drawing.Size(178, 45);
+            this.dashboard.Size = new System.Drawing.Size(237, 55);
             this.dashboard.TabIndex = 11;
             this.dashboard.Text = "Dashboard";
             this.dashboard.UseVisualStyleBackColor = true;
@@ -251,8 +260,9 @@ namespace TimeTable
             this.panellogo.Cursor = System.Windows.Forms.Cursors.Hand;
             this.panellogo.Dock = System.Windows.Forms.DockStyle.Top;
             this.panellogo.Location = new System.Drawing.Point(0, 0);
+            this.panellogo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panellogo.Name = "panellogo";
-            this.panellogo.Size = new System.Drawing.Size(178, 62);
+            this.panellogo.Size = new System.Drawing.Size(237, 75);
             this.panellogo.TabIndex = 0;
             // 
             // panel1
@@ -263,19 +273,21 @@ namespace TimeTable
             this.panel1.Controls.Add(this.panel3);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.panel1.Location = new System.Drawing.Point(197, 36);
+            this.panel1.Location = new System.Drawing.Point(261, 44);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(726, 557);
+            this.panel1.Size = new System.Drawing.Size(970, 686);
             this.panel1.TabIndex = 30;
             // 
             // locationtab
             // 
             this.locationtab.Controls.Add(this.locationtabpage);
             this.locationtab.Controls.Add(this.manageloctab);
-            this.locationtab.Location = new System.Drawing.Point(16, 67);
+            this.locationtab.Location = new System.Drawing.Point(21, 82);
+            this.locationtab.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.locationtab.Name = "locationtab";
             this.locationtab.SelectedIndex = 0;
-            this.locationtab.Size = new System.Drawing.Size(695, 460);
+            this.locationtab.Size = new System.Drawing.Size(927, 566);
             this.locationtab.TabIndex = 27;
             // 
             // locationtabpage
@@ -292,10 +304,11 @@ namespace TimeTable
             this.locationtabpage.Controls.Add(this.textBox2);
             this.locationtabpage.Controls.Add(this.textBox1);
             this.locationtabpage.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.locationtabpage.Location = new System.Drawing.Point(4, 27);
+            this.locationtabpage.Location = new System.Drawing.Point(4, 33);
+            this.locationtabpage.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.locationtabpage.Name = "locationtabpage";
-            this.locationtabpage.Padding = new System.Windows.Forms.Padding(3, 3, 3, 3);
-            this.locationtabpage.Size = new System.Drawing.Size(687, 429);
+            this.locationtabpage.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.locationtabpage.Size = new System.Drawing.Size(919, 529);
             this.locationtabpage.TabIndex = 0;
             this.locationtabpage.Text = "Add Location";
             this.locationtabpage.UseVisualStyleBackColor = true;
@@ -310,9 +323,10 @@ namespace TimeTable
             "D204",
             "E204",
             "E304"});
-            this.txtroomname.Location = new System.Drawing.Point(173, 211);
+            this.txtroomname.Location = new System.Drawing.Point(231, 260);
+            this.txtroomname.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtroomname.Name = "txtroomname";
-            this.txtroomname.Size = new System.Drawing.Size(121, 21);
+            this.txtroomname.Size = new System.Drawing.Size(160, 25);
             this.txtroomname.TabIndex = 121;
             // 
             // label2
@@ -322,18 +336,20 @@ namespace TimeTable
             this.label2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label2.Font = new System.Drawing.Font("Montserrat", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label2.Location = new System.Drawing.Point(267, 47);
+            this.label2.Location = new System.Drawing.Point(356, 58);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(152, 26);
+            this.label2.Size = new System.Drawing.Size(184, 33);
             this.label2.TabIndex = 119;
             this.label2.Text = "Add Location";
             // 
             // btnlocclear
             // 
             this.btnlocclear.BackColor = System.Drawing.Color.Red;
-            this.btnlocclear.Location = new System.Drawing.Point(371, 297);
+            this.btnlocclear.Location = new System.Drawing.Point(495, 366);
+            this.btnlocclear.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnlocclear.Name = "btnlocclear";
-            this.btnlocclear.Size = new System.Drawing.Size(101, 36);
+            this.btnlocclear.Size = new System.Drawing.Size(135, 44);
             this.btnlocclear.TabIndex = 47;
             this.btnlocclear.Text = "Clear";
             this.btnlocclear.UseVisualStyleBackColor = false;
@@ -342,9 +358,10 @@ namespace TimeTable
             // btnlocsave
             // 
             this.btnlocsave.BackColor = System.Drawing.Color.DodgerBlue;
-            this.btnlocsave.Location = new System.Drawing.Point(189, 297);
+            this.btnlocsave.Location = new System.Drawing.Point(252, 366);
+            this.btnlocsave.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnlocsave.Name = "btnlocsave";
-            this.btnlocsave.Size = new System.Drawing.Size(104, 36);
+            this.btnlocsave.Size = new System.Drawing.Size(139, 44);
             this.btnlocsave.TabIndex = 46;
             this.btnlocsave.Text = "Save";
             this.btnlocsave.UseVisualStyleBackColor = false;
@@ -362,9 +379,10 @@ namespace TimeTable
             "170",
             "200",
             "230"});
-            this.txtcapacity.Location = new System.Drawing.Point(514, 133);
+            this.txtcapacity.Location = new System.Drawing.Point(685, 164);
+            this.txtcapacity.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtcapacity.Name = "txtcapacity";
-            this.txtcapacity.Size = new System.Drawing.Size(121, 21);
+            this.txtcapacity.Size = new System.Drawing.Size(160, 25);
             this.txtcapacity.TabIndex = 42;
             // 
             // txtroomtype
@@ -373,9 +391,10 @@ namespace TimeTable
             this.txtroomtype.Items.AddRange(new object[] {
             "Lecture Hall",
             "Laboratory"});
-            this.txtroomtype.Location = new System.Drawing.Point(514, 208);
+            this.txtroomtype.Location = new System.Drawing.Point(685, 256);
+            this.txtroomtype.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtroomtype.Name = "txtroomtype";
-            this.txtroomtype.Size = new System.Drawing.Size(121, 21);
+            this.txtroomtype.Size = new System.Drawing.Size(160, 25);
             this.txtroomtype.TabIndex = 41;
             // 
             // txtbuildname
@@ -386,48 +405,53 @@ namespace TimeTable
             "Faculty of Business Building",
             "Faculty of Engineering Building",
             "New Building"});
-            this.txtbuildname.Location = new System.Drawing.Point(173, 137);
+            this.txtbuildname.Location = new System.Drawing.Point(231, 169);
+            this.txtbuildname.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtbuildname.Name = "txtbuildname";
-            this.txtbuildname.Size = new System.Drawing.Size(121, 21);
+            this.txtbuildname.Size = new System.Drawing.Size(160, 25);
             this.txtbuildname.TabIndex = 40;
             // 
             // textBox11
             // 
             this.textBox11.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox11.Location = new System.Drawing.Point(22, 207);
+            this.textBox11.Location = new System.Drawing.Point(29, 255);
+            this.textBox11.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox11.Name = "textBox11";
             this.textBox11.ReadOnly = true;
-            this.textBox11.Size = new System.Drawing.Size(123, 24);
+            this.textBox11.Size = new System.Drawing.Size(163, 29);
             this.textBox11.TabIndex = 39;
             this.textBox11.Text = "Room Name";
             // 
             // textBox3
             // 
             this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox3.Location = new System.Drawing.Point(357, 208);
+            this.textBox3.Location = new System.Drawing.Point(476, 256);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox3.Name = "textBox3";
             this.textBox3.ReadOnly = true;
-            this.textBox3.Size = new System.Drawing.Size(125, 24);
+            this.textBox3.Size = new System.Drawing.Size(165, 29);
             this.textBox3.TabIndex = 31;
             this.textBox3.Text = "Room Type";
             // 
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.Location = new System.Drawing.Point(357, 133);
+            this.textBox2.Location = new System.Drawing.Point(476, 164);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox2.Name = "textBox2";
             this.textBox2.ReadOnly = true;
-            this.textBox2.Size = new System.Drawing.Size(125, 24);
+            this.textBox2.Size = new System.Drawing.Size(165, 29);
             this.textBox2.TabIndex = 30;
             this.textBox2.Text = "Capacity";
             // 
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(22, 134);
+            this.textBox1.Location = new System.Drawing.Point(29, 165);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(123, 24);
+            this.textBox1.Size = new System.Drawing.Size(163, 29);
             this.textBox1.TabIndex = 29;
             this.textBox1.Text = "Building Name";
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
@@ -448,13 +472,15 @@ namespace TimeTable
             this.manageloctab.Controls.Add(this.textBox12);
             this.manageloctab.Controls.Add(this.textBox16);
             this.manageloctab.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.manageloctab.Location = new System.Drawing.Point(4, 27);
+            this.manageloctab.Location = new System.Drawing.Point(4, 33);
+            this.manageloctab.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.manageloctab.Name = "manageloctab";
-            this.manageloctab.Padding = new System.Windows.Forms.Padding(3, 3, 3, 3);
-            this.manageloctab.Size = new System.Drawing.Size(687, 429);
+            this.manageloctab.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.manageloctab.Size = new System.Drawing.Size(919, 529);
             this.manageloctab.TabIndex = 1;
             this.manageloctab.Text = "Edit/Delete Location";
             this.manageloctab.UseVisualStyleBackColor = true;
+            this.manageloctab.Click += new System.EventHandler(this.manageloctab_Click);
             // 
             // comboEditbuilding
             // 
@@ -464,9 +490,10 @@ namespace TimeTable
             "Faculty of Business Building",
             "Faculty of Engineering Building",
             "New Building"});
-            this.comboEditbuilding.Location = new System.Drawing.Point(206, 109);
+            this.comboEditbuilding.Location = new System.Drawing.Point(275, 134);
+            this.comboEditbuilding.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.comboEditbuilding.Name = "comboEditbuilding";
-            this.comboEditbuilding.Size = new System.Drawing.Size(121, 21);
+            this.comboEditbuilding.Size = new System.Drawing.Size(160, 25);
             this.comboEditbuilding.TabIndex = 120;
             // 
             // label3
@@ -476,9 +503,10 @@ namespace TimeTable
             this.label3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label3.Font = new System.Drawing.Font("Montserrat", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label3.Location = new System.Drawing.Point(257, 38);
+            this.label3.Location = new System.Drawing.Point(343, 47);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(202, 26);
+            this.label3.Size = new System.Drawing.Size(247, 33);
             this.label3.TabIndex = 119;
             this.label3.Text = "Manage Locations";
             this.label3.Click += new System.EventHandler(this.label3_Click);
@@ -486,10 +514,11 @@ namespace TimeTable
             // dgvLocations
             // 
             this.dgvLocations.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvLocations.Location = new System.Drawing.Point(6, 295);
+            this.dgvLocations.Location = new System.Drawing.Point(8, 363);
+            this.dgvLocations.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dgvLocations.Name = "dgvLocations";
             this.dgvLocations.RowHeadersWidth = 51;
-            this.dgvLocations.Size = new System.Drawing.Size(630, 128);
+            this.dgvLocations.Size = new System.Drawing.Size(854, 158);
             this.dgvLocations.TabIndex = 50;
             this.dgvLocations.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvLocations_CellClick);
             this.dgvLocations.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvLocations_CellClick);
@@ -497,9 +526,10 @@ namespace TimeTable
             // btnLocDelete
             // 
             this.btnLocDelete.BackColor = System.Drawing.Color.Yellow;
-            this.btnLocDelete.Location = new System.Drawing.Point(275, 253);
+            this.btnLocDelete.Location = new System.Drawing.Point(367, 311);
+            this.btnLocDelete.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnLocDelete.Name = "btnLocDelete";
-            this.btnLocDelete.Size = new System.Drawing.Size(101, 36);
+            this.btnLocDelete.Size = new System.Drawing.Size(135, 44);
             this.btnLocDelete.TabIndex = 49;
             this.btnLocDelete.Text = "Delete";
             this.btnLocDelete.UseVisualStyleBackColor = false;
@@ -508,9 +538,10 @@ namespace TimeTable
             // btnLMclear
             // 
             this.btnLMclear.BackColor = System.Drawing.Color.Red;
-            this.btnLMclear.Location = new System.Drawing.Point(446, 253);
+            this.btnLMclear.Location = new System.Drawing.Point(595, 311);
+            this.btnLMclear.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnLMclear.Name = "btnLMclear";
-            this.btnLMclear.Size = new System.Drawing.Size(104, 36);
+            this.btnLMclear.Size = new System.Drawing.Size(139, 44);
             this.btnLMclear.TabIndex = 48;
             this.btnLMclear.Text = "Clear";
             this.btnLMclear.UseVisualStyleBackColor = false;
@@ -519,9 +550,10 @@ namespace TimeTable
             // btnLocUpdate
             // 
             this.btnLocUpdate.BackColor = System.Drawing.Color.MediumOrchid;
-            this.btnLocUpdate.Location = new System.Drawing.Point(111, 253);
+            this.btnLocUpdate.Location = new System.Drawing.Point(148, 311);
+            this.btnLocUpdate.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnLocUpdate.Name = "btnLocUpdate";
-            this.btnLocUpdate.Size = new System.Drawing.Size(110, 36);
+            this.btnLocUpdate.Size = new System.Drawing.Size(147, 44);
             this.btnLocUpdate.TabIndex = 47;
             this.btnLocUpdate.Text = "Update";
             this.btnLocUpdate.UseVisualStyleBackColor = false;
@@ -533,9 +565,10 @@ namespace TimeTable
             this.comboEditroomtype.Items.AddRange(new object[] {
             "Lecture Hall",
             "Laboratory"});
-            this.comboEditroomtype.Location = new System.Drawing.Point(542, 186);
+            this.comboEditroomtype.Location = new System.Drawing.Point(723, 229);
+            this.comboEditroomtype.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.comboEditroomtype.Name = "comboEditroomtype";
-            this.comboEditroomtype.Size = new System.Drawing.Size(121, 21);
+            this.comboEditroomtype.Size = new System.Drawing.Size(160, 25);
             this.comboEditroomtype.TabIndex = 45;
             // 
             // comboEditcapacity
@@ -550,9 +583,10 @@ namespace TimeTable
             "170",
             "200",
             "230"});
-            this.comboEditcapacity.Location = new System.Drawing.Point(542, 109);
+            this.comboEditcapacity.Location = new System.Drawing.Point(723, 134);
+            this.comboEditcapacity.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.comboEditcapacity.Name = "comboEditcapacity";
-            this.comboEditcapacity.Size = new System.Drawing.Size(121, 21);
+            this.comboEditcapacity.Size = new System.Drawing.Size(160, 25);
             this.comboEditcapacity.TabIndex = 44;
             // 
             // comboEditroomname
@@ -564,48 +598,53 @@ namespace TimeTable
             "D204",
             "E204",
             "E304"});
-            this.comboEditroomname.Location = new System.Drawing.Point(206, 190);
+            this.comboEditroomname.Location = new System.Drawing.Point(275, 234);
+            this.comboEditroomname.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.comboEditroomname.Name = "comboEditroomname";
-            this.comboEditroomname.Size = new System.Drawing.Size(121, 21);
+            this.comboEditroomname.Size = new System.Drawing.Size(160, 25);
             this.comboEditroomname.TabIndex = 42;
             // 
             // textBox4
             // 
             this.textBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox4.Location = new System.Drawing.Point(42, 109);
+            this.textBox4.Location = new System.Drawing.Point(56, 134);
+            this.textBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox4.Name = "textBox4";
             this.textBox4.ReadOnly = true;
-            this.textBox4.Size = new System.Drawing.Size(123, 24);
+            this.textBox4.Size = new System.Drawing.Size(163, 29);
             this.textBox4.TabIndex = 41;
             this.textBox4.Text = "Building Name";
             // 
             // textBox6
             // 
             this.textBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox6.Location = new System.Drawing.Point(42, 190);
+            this.textBox6.Location = new System.Drawing.Point(56, 234);
+            this.textBox6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox6.Name = "textBox6";
             this.textBox6.ReadOnly = true;
-            this.textBox6.Size = new System.Drawing.Size(123, 24);
+            this.textBox6.Size = new System.Drawing.Size(163, 29);
             this.textBox6.TabIndex = 40;
             this.textBox6.Text = "Room Name";
             // 
             // textBox12
             // 
             this.textBox12.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox12.Location = new System.Drawing.Point(387, 186);
+            this.textBox12.Location = new System.Drawing.Point(516, 229);
+            this.textBox12.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox12.Name = "textBox12";
             this.textBox12.ReadOnly = true;
-            this.textBox12.Size = new System.Drawing.Size(125, 24);
+            this.textBox12.Size = new System.Drawing.Size(165, 29);
             this.textBox12.TabIndex = 38;
             this.textBox12.Text = "Room Type";
             // 
             // textBox16
             // 
             this.textBox16.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox16.Location = new System.Drawing.Point(387, 110);
+            this.textBox16.Location = new System.Drawing.Point(516, 135);
+            this.textBox16.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox16.Name = "textBox16";
             this.textBox16.ReadOnly = true;
-            this.textBox16.Size = new System.Drawing.Size(125, 24);
+            this.textBox16.Size = new System.Drawing.Size(165, 29);
             this.textBox16.TabIndex = 33;
             this.textBox16.Text = "Capacity";
             // 
@@ -617,8 +656,9 @@ namespace TimeTable
             this.panel3.Controls.Add(this.label6);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel3.Location = new System.Drawing.Point(0, 0);
+            this.panel3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(722, 62);
+            this.panel3.Size = new System.Drawing.Size(966, 75);
             this.panel3.TabIndex = 0;
             this.panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.panel3_Paint);
             // 
@@ -630,9 +670,10 @@ namespace TimeTable
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.label6.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.label6.Location = new System.Drawing.Point(308, 15);
+            this.label6.Location = new System.Drawing.Point(411, 18);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(99, 24);
+            this.label6.Size = new System.Drawing.Size(125, 29);
             this.label6.TabIndex = 0;
             this.label6.Text = "Locations";
             this.label6.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -640,17 +681,17 @@ namespace TimeTable
             // 
             // Location
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BorderStyle = MetroFramework.Forms.MetroFormBorderStyle.FixedSingle;
-            this.ClientSize = new System.Drawing.Size(938, 609);
+            this.ClientSize = new System.Drawing.Size(1251, 750);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panelSliderMenu);
             this.DisplayHeader = false;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MaximizeBox = false;
             this.Name = "Location";
-            this.Padding = new System.Windows.Forms.Padding(15, 36, 15, 16);
+            this.Padding = new System.Windows.Forms.Padding(20, 44, 20, 20);
             this.Resizable = false;
             this.Style = MetroFramework.MetroColorStyle.White;
             this.Load += new System.EventHandler(this.Location_Load);

@@ -481,6 +481,7 @@ namespace TimeTable
 
         }
 
+        //ADD PREFERED ROOMS
         private void btnaddPrefer_Click(object sender, EventArgs e)
         {
 
@@ -523,7 +524,7 @@ namespace TimeTable
             }
 
         }
-
+        //ADD ROOMS FOR SESSIONS
         private void btnAddSession_Click(object sender, EventArgs e)
         {
 
@@ -570,6 +571,8 @@ namespace TimeTable
         {
 
         }
+
+        //ADD ROOMS FOR A CONSECUTIVE SESSION
 
         private void addbtncons_Click(object sender, EventArgs e)
         {
