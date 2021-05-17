@@ -1,0 +1,200 @@
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\bin\Debug\TimeTable.exe.config
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\bin\Debug\TimeTable.exe
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\bin\Debug\TimeTable.pdb
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\bin\Debug\MetroFramework.Design.dll
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\bin\Debug\MetroFramework.dll
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\obj\Debug\TimeTable.Form1.resources
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\obj\Debug\TimeTable.Properties.Resources.resources
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.GenerateResource.cache
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.CoreCompileInputs.cache
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.CopyComplete
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\obj\Debug\TimeTable.exe
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\obj\Debug\TimeTable.pdb
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\obj\Debug\TimeTable.csprojAssemblyReference.cache
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\obj\Debug\TimeTable.AddLecturer.resources
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\obj\Debug\TimeTable.Addsession.resources
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\obj\Debug\TimeTable.AddSubjects.resources
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\obj\Debug\TimeTable.Edit_DeleteSessions.resources
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\obj\Debug\TimeTable.ManageLectures.resources
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\obj\Debug\TimeTable.ManageSubjects.resources
+C:\Users\ISURI\source\repos\TimeTable\TimeTable\obj\Debug\TimeTable.viewSession.resources
+C:\Users\user\Desktop\TimeTable\TimeTable\bin\Debug\TimeTable.exe.config
+C:\Users\user\Desktop\TimeTable\TimeTable\bin\Debug\TimeTable.exe
+C:\Users\user\Desktop\TimeTable\TimeTable\bin\Debug\TimeTable.pdb
+C:\Users\user\Desktop\TimeTable\TimeTable\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\TimeTable\TimeTable\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\TimeTable\TimeTable\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\TimeTable\TimeTable\obj\Debug\TimeTable.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TimeTable\TimeTable\obj\Debug\TimeTable.Form1.resources
+C:\Users\user\Desktop\TimeTable\TimeTable\obj\Debug\TimeTable.Lectures.resources
+C:\Users\user\Desktop\TimeTable\TimeTable\obj\Debug\TimeTable.Properties.Resources.resources
+C:\Users\user\Desktop\TimeTable\TimeTable\obj\Debug\TimeTable.Sessions.resources
+C:\Users\user\Desktop\TimeTable\TimeTable\obj\Debug\TimeTable.Subjects.resources
+C:\Users\user\Desktop\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.CopyComplete
+C:\Users\user\Desktop\TimeTable\TimeTable\obj\Debug\TimeTable.exe
+C:\Users\user\Desktop\TimeTable\TimeTable\obj\Debug\TimeTable.pdb
+C:\Users\user\Desktop\TimeTable\TimeTable\obj\Debug\TimeTable.Advanced.resources
+C:\Users\user\Desktop\TimeTable\TimeTable\obj\Debug\TimeTable.Students.resources
+C:\Users\user\Desktop\TimeTable\TimeTable\obj\Debug\TimeTable.TAG.resources
+C:\Users\user\Desktop\TimeTable\TimeTable\bin\Debug\Database.mdf
+C:\Users\user\Desktop\TimeTable\TimeTable\bin\Debug\Database_log.ldf
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\bin\Debug\Database.mdf
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\bin\Debug\Database_log.ldf
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\bin\Debug\TimeTable.exe.config
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\bin\Debug\TimeTable.exe
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\bin\Debug\TimeTable.pdb
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\bin\Debug\MetroFramework.Design.dll
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\bin\Debug\MetroFramework.dll
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\obj\Debug\TimeTable.csprojAssemblyReference.cache
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\obj\Debug\TimeTable.Advanced.resources
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\obj\Debug\TimeTable.Form1.resources
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\obj\Debug\TimeTable.Lectures.resources
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\obj\Debug\TimeTable.Properties.Resources.resources
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\obj\Debug\TimeTable.Sessions.resources
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\obj\Debug\TimeTable.Students.resources
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\obj\Debug\TimeTable.Subjects.resources
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\obj\Debug\TimeTable.TAG.resources
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.GenerateResource.cache
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.CoreCompileInputs.cache
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.CopyComplete
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\obj\Debug\TimeTable.exe
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\obj\Debug\TimeTable.pdb
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\obj\Debug\TimeTable.Location.resources
+C:\Users\ISURI\Desktop\papers\TimeTable\TimeTable\obj\Debug\TimeTable.Rooms.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\bin\Debug\Database.mdf
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\bin\Debug\Database_log.ldf
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\bin\Debug\TimeTable.exe.config
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\bin\Debug\TimeTable.exe
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\bin\Debug\TimeTable.pdb
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\bin\Debug\MetroFramework.Design.dll
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\bin\Debug\MetroFramework.dll
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.csprojAssemblyReference.cache
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.Advanced.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.Form1.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.Lectures.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.Location.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.Properties.Resources.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.Rooms.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.Sessions.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.Students.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.Subjects.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.TAG.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.GenerateResource.cache
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.CoreCompileInputs.cache
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.CopyComplete
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.exe
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.pdb
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.Generate_Timetable.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\Me\TimeTable\TimeTable\obj\Debug\TimeTable.Statistics.resources
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\bin\Debug\Database.mdf
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\bin\Debug\Database_log.ldf
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\bin\Debug\TimeTable.exe.config
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\bin\Debug\TimeTable.exe
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\bin\Debug\TimeTable.pdb
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.csprojAssemblyReference.cache
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.Advanced.resources
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.Form1.resources
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.Generate_Timetable.resources
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.Lectures.resources
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.Location.resources
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.Properties.Resources.resources
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.Rooms.resources
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.Sessions.resources
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.Statistics.resources
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.Students.resources
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.Subjects.resources
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.TAG.resources
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.GenerateResource.cache
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.CopyComplete
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.exe
+C:\Users\user\Desktop\assessment\TimeTable\TimeTable\obj\Debug\TimeTable.pdb
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\bin\Debug\Database.mdf
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\bin\Debug\Database_log.ldf
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\bin\Debug\TimeTable.exe.config
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\bin\Debug\TimeTable.exe
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\bin\Debug\TimeTable.pdb
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\bin\Debug\MetroFramework.Design.dll
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\bin\Debug\MetroFramework.dll
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.csprojAssemblyReference.cache
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.Advanced.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.Form1.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.Generate_Timetable.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.Lectures.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.Location.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.Properties.Resources.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.Rooms.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.Sessions.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.Statistics.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.Students.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.Subjects.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.TAG.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.GenerateResource.cache
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.CoreCompileInputs.cache
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.CopyComplete
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.exe
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.pdb
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew1\TimeTable\TimeTable\obj\Debug\TimeTable.WorkingDays.resources
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\bin\Debug\Database.mdf
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\bin\Debug\Database_log.ldf
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\bin\Debug\TimeTable.exe.config
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\bin\Debug\TimeTable.exe
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\bin\Debug\TimeTable.pdb
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.Advanced.resources
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.Form1.resources
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.Generate_Timetable.resources
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.Lectures.resources
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.Location.resources
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.Properties.Resources.resources
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.Rooms.resources
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.Sessions.resources
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.Statistics.resources
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.Students.resources
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.Subjects.resources
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.TAG.resources
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.WorkingDays.resources
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.CopyComplete
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.exe
+C:\Users\user\Desktop\ITPM\TimeTable\TimeTable\obj\Debug\TimeTable.pdb
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\bin\Debug\Database.mdf
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\bin\Debug\Database_log.ldf
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\bin\Debug\TimeTable.exe.config
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\bin\Debug\TimeTable.exe
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\bin\Debug\TimeTable.pdb
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\bin\Debug\MetroFramework.Design.dll
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\bin\Debug\MetroFramework.dll
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.csprojAssemblyReference.cache
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.Advanced.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.Form1.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.Generate_Timetable.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.Lectures.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.Location.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.Properties.Resources.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.Rooms.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.Sessions.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.Statistics.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.Students.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.Subjects.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.TAG.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.WorkingDays.resources
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.GenerateResource.cache
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.CoreCompileInputs.cache
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.CopyComplete
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.exe
+C:\Users\ISURI\Desktop\lecture materiala\3rd yr 1 st sem\ITPM Projects\ProjectNew2\TimeTable\TimeTable\obj\Debug\TimeTable.pdb
