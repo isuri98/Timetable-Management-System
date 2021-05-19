@@ -221,7 +221,7 @@ namespace TimeTable
                     cmd.CommandType = CommandType.Text;
                     cmd.CommandText = "delete from Subject where ID = '" + ID + "'";
                     cmd.ExecuteNonQuery();
-
+                    
 
                     String query2 = "Select * from Subject";
 
