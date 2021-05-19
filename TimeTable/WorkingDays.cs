@@ -353,6 +353,7 @@ namespace TimeTable
         {
 
         }
+        //Grid View
 
         private void dataGridViewnw_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -376,6 +377,8 @@ namespace TimeTable
 
 
         }
+
+        //ADD WORKING DAYS
 
         private void btnnwAdd_Click(object sender, EventArgs e)
         {
@@ -507,6 +510,7 @@ namespace TimeTable
                 MessageBox.Show(ex.ToString());
             }
         }
+        //DELETE WORKING DAYS
 
         private void btnnwDelete_Click(object sender, EventArgs e)
         {
@@ -627,6 +631,7 @@ namespace TimeTable
         {
 
         }
+        //ADD WORKING TIME
 
         private void btnwtSave_Click(object sender, EventArgs e)
         {

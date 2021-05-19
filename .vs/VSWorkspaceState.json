@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TimeTable"
   ],
+  "SelectedNode": "\\TimeTable\\WorkingDays.cs",
   "PreviewInSolutionExplorer": false
 }
