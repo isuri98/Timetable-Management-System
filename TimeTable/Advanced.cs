@@ -691,7 +691,7 @@ namespace TimeTable
                 MessageBox.Show(ex.ToString());
             }
         }
-
+        //Insert add suitable time
         private void button97_Click(object sender, EventArgs e)
         {
             try
@@ -730,7 +730,7 @@ namespace TimeTable
                 MessageBox.Show(ex.ToString());
             }
         }
-
+        //Delete add suitable time
         private void button96_Click(object sender, EventArgs e)
         {
             DialogResult dlgResult = MessageBox.Show("Are You Sure You Want To Delete?", "Delete!", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
@@ -774,7 +774,7 @@ namespace TimeTable
                 }
             }
         }
-
+        //view the add suitable time
         private void dataGridView95_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             int index = e.RowIndex;
@@ -795,7 +795,7 @@ namespace TimeTable
 
             }
         }
-
+        //Viewing the lectures,groups & sub groups
         private void dataGridViewA4_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             int index = e.RowIndex;
