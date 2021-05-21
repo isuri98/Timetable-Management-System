@@ -30,7 +30,9 @@ namespace TimeTable
             latestgroup();
             latestSubject();
         }
+        
         //calculating Registered Lecturer Count
+        
         private void totalLecturerCount()
         {
             con = ConnectionManager.GetConnection();
@@ -50,7 +52,9 @@ namespace TimeTable
             con.Close();
 
         }
+        
         //calculating Registered Student Count
+        
         private void totalStudentCount()
         {
             con = ConnectionManager.GetConnection();
@@ -70,7 +74,9 @@ namespace TimeTable
             con.Close();
 
         }
+        
         //calculating Registered Subject Count
+        
         private void totalSubjectCount()
         {
             con = ConnectionManager.GetConnection();
@@ -92,6 +98,7 @@ namespace TimeTable
         }
 
         //calculating Registered Room Count
+        
         private void totalRoomCount()
         {
             con = ConnectionManager.GetConnection();
@@ -111,7 +118,9 @@ namespace TimeTable
             con.Close();
 
         }
+        
         //Getting Latest Lecturer
+        
         private void latestlecturer()
         {
             con = ConnectionManager.GetConnection();
@@ -131,6 +140,9 @@ namespace TimeTable
             con.Close();
 
         }
+        
+         //Getting Latest Group
+         
         private void latestgroup()
         {
             con = ConnectionManager.GetConnection();
@@ -150,6 +162,8 @@ namespace TimeTable
             con.Close();
 
         }
+        
+         //Getting Latest Subject
 
         private void latestSubject()
         {
@@ -235,6 +249,8 @@ namespace TimeTable
 
         }
 
+        //Linking to Dashboard
+        
         private void dashboard_Click_1(object sender, EventArgs e)
         {
 
