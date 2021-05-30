@@ -144,7 +144,7 @@ namespace TimeTable
                     cmd.ExecuteNonQuery();
 
 
-                    
+                    String query2 = "Select * from Tags";
 
                     SqlDataAdapter sda = new SqlDataAdapter(query2, con);
                     DataTable dt = new DataTable();
