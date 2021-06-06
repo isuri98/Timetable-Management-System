@@ -1,10 +1,21 @@
 # .NET Desktop
+
 # Build and run tests for .NET Desktop or Windows classic desktop solutions.
 # Add steps that publish symbols, save build artifacts, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/apps/windows/dot-net
 
 trigger:
 - master
+- task: SonarQubePrepare@4
+  inputs:
+    SonarQube: 'Time table Management System'
+    scannerMode: 'MSBuild'
+    projectKey: 'Time_table_Management_System_Time_table_Management_System'
+    projectName: 'Time table Management System'
+- task: SonarQubeAnalyze@4
+- task: SonarQubePublish@4
+  inputs:
+    pollingTimeoutSec: '300'
 
 pool:
   vmImage: 'windows-latest'
